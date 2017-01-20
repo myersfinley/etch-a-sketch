@@ -1,0 +1,70 @@
+body
+{
+    background-color: #0F2043;
+}
+
+#title
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800 px;
+}
+
+h1
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    color: #d5a458;
+    font-style: oblique; 
+    font-size: 2.5em;
+}
+
+#boundary
+{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin:auto;
+
+}
+
+#boundary div
+{
+    background-color: #79cedc;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+#menu
+{
+    display: block;
+    width: 515px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+button
+{
+    background-color: #d5a458;
+    height: 30px;
+    width: 125px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 40px ;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1em;
+    font-style: bold;
+    color: #0F2043;
+}
+
+.recent
+{
+    border: 3px yellow solid;
+}
